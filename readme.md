@@ -12,6 +12,7 @@ Now, let's start using this Bot in your system as well.
 
  Firstly, Change the path according to your path of geckodriver(it should be executable):
  Here executable means the ending path should be in .exe
+ 
  **How to change path**
 
  1. click on start button and searvch for environment variable.
